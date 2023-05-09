@@ -8,6 +8,7 @@
   <div align="center">
   
     ![VisitorCount](https://profile-counter.glitch.me/%7Bbaalware%7D/count.svg)
+    
     <p>feito em </p>
   </div>
   <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
